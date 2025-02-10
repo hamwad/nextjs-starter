@@ -11,7 +11,7 @@ export default function Unauthenticated() {
       <h1 className="text-3xl">Unauthenticated</h1>
       <br />
       <p>
-        You need to be logged in to view <code>{fromPage}</code>
+        You need to be logged in idiot to view <code>{fromPage}</code>
       </p>
     </section>
   );
